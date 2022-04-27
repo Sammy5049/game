@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/game/static/css/main.073c9b0a.css",
-    "main.js": "/game/static/js/main.7ff5db2b.js",
+    "main.js": "/game/static/js/main.fea3f993.js",
     "static/media/logostarbelly.jpeg": "/game/static/media/logostarbelly.0c2fb6b7aaa832360789.jpeg",
     "index.html": "/game/index.html",
     "main.073c9b0a.css.map": "/game/static/css/main.073c9b0a.css.map",
-    "main.7ff5db2b.js.map": "/game/static/js/main.7ff5db2b.js.map"
+    "main.fea3f993.js.map": "/game/static/js/main.fea3f993.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7ff5db2b.js"
+    "static/js/main.fea3f993.js"
   ]
 }
